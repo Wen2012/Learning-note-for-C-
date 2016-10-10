@@ -1,0 +1,67 @@
+CH1 
+
+software consists of programs, which are set of instructions telling computer exactly what to do.
+
+System software:  operating systems,  
+
+		compiler convert human language to machine readable language.
+Application software：
+
+
+C# has rules for sentence constructions, or syntax.
+
+interpreters check for rule violations line by line
+many languages offere compilers and interpreters
+c, basic, python and lisp.
+
+assemblers   convert the assembly programing language
+
+Application software: e-commerce website
+
+Software development process:
+
+programming is a process of problem solving.
+methodologies
+
+1. problem specification
+2. analyze the problem
+3. design a solution
+4. code the solution
+5. implement the code
+6. test and debug
+7. desired results
+
+Questions:
+what kind of data will be available for input?
+what type of values will be in each of the identified data items?
+what is the domain(range of the values) for each input item?
+will the user of the program be inputting values?
+if the problem solution is to be used with multiple data sets, are there any data items that stay the same, or remain constant, with each set?
+
+
+How the input data items would be determined:
+
+identifier
+data item
+type
+domain of values for each item
+
+Design a solution:
+methods, 
+divide and conquerer method
+top-down design
+
+Object-oriented approach
+focus is on determining the data characteristics and the methods or behaviors that operate on the data.
+
+P9  to be continued
+
+
+
+
+CH
+
+
+
+
+
