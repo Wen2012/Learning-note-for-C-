@@ -1,0 +1,49 @@
+bit  binary digIT
+byte= 8 bits
+
+8 bits= 1 byte = 1 keystroke
+
+programming = 11 bytes
+
+base-2  binary
+base-10 decimal
+
+Example: a binary number to decimal
+
+01101001
+
+0 will count as 0, 1 will count the real result of 2 exponent.
+
+0 2的7次方
+1 2的六次方
+
+
+result is  01101001=105
+
+0         00000000
+1         00000001
+2         00000010
+3         00000011
+4         00000100
+5         00000101
+6         00000110
+7         00000111
+8         00001000
+...
+254       11111110
+255       11111111
+
+
+Base 8    octal numbering system
+Base 16   Hexadecimal numbering system
+
+
+01000001 = 65 = A
+Character set : Unicode
+A subset of Unicode, the first 128 characters is ASCII American Standard Code for Informtion Interchange= English alphabet, symbols and numbers
+
+identifier  name of element in a program, data items. some are predefined, some user defined. E.g.  System, Main, Console, WriteLine
+
+keywords  are reserved identifiers for the system
+
+
